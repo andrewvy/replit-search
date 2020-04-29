@@ -1,0 +1,6 @@
+.container {
+  padding: 1em;
+  background-color: var(--color-lightGrey);
+  color: var(--color-darkGrey);
+  font-weight: 600;
+}
